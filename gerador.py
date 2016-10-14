@@ -133,7 +133,8 @@ def criar_html_simples():
     html.close()
 
 def criar_css_simples():
-    css.write("/* Insira seu CSS personalizado aqui! */")
+    css.write("/* Insira seu CSS personalizado aqui! */"
+              "\nfooter {text-align: center;}")
     css.close()
 
 
