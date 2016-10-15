@@ -286,7 +286,7 @@ def criar_html_port():
     bootmin = "http://getbootstrap.com.br/dist/css/bootstrap.min.css"
     urllib.request.urlretrieve(bootmin, "site/bootstrap/css/bootstrap.min.css")
 
-    #baixa o hack do IE
+    # baixa o hack do IE
     viewport = "http://getbootstrap.com.br/assets/js/ie10-viewport-bug-workaround.js"
     urllib.request.urlretrieve(viewport, "site/bootstrap/css/viewport-bug-workaround.js")
 
