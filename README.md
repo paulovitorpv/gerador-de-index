@@ -11,10 +11,10 @@
 
 </br>
 
-<p>-------- Versões --------</p>
+<p>-- Ferramentas Utilizadas --</p>
 <li> Python            3.5.1 </li>
 <li> urllib.request    3.5 </li>
 <li> Bootstrap         2.2.2 </li>
-<p>-------------------------</p>
+<p>-----------------------------</p>
 
 
