@@ -7,7 +7,7 @@
 
 import os
 import shutil
-import urllib.request
+import urllib.request #versao 3.5
 import zipfile
 
 # cria os diretorios
