@@ -11,10 +11,19 @@
 
 </br>
 
-<p>-- Ferramentas Utilizadas --</p>
-<li> Python            3.5.1 </li>
-<li> urllib.request    3.5 </li>
-<li> Bootstrap         2.2.2 </li>
-<p>-----------------------------</p>
-
-
+<table>
+  <tr>
+    <th colspan="2">Ferramentas Utilizadas</th>
+  </tr>
+  <tr>
+    <td> Python</td>            
+    <td>3.5.1</td>
+  </tr>
+  <tr>
+    <td>urllib.request</td> 
+    <td>3.5</td>
+  <tr>
+    <td> Bootstrap</td>
+    <td>2.2.2</td>
+  </tr>
+ </table>
