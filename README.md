@@ -11,7 +11,8 @@
 
 <table>
   <tr>
-    <th colspan="2">Ferramentas Utilizadas</th>
+    <th>Ferramentas Utilizadas</th>
+    <th>Versão</th>
   </tr>
   <tr>
     <td> Python</td>            
