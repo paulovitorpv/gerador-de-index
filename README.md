@@ -9,8 +9,6 @@
 
 <p>Pronto para ser customizado.</p>
 
-</br>
-
 <table>
   <tr>
     <th colspan="2">Ferramentas Utilizadas</th>
