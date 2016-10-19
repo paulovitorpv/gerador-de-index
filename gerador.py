@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 #
 # Gerador de index.html com molde nos exemplos de template do Bootstrap.
-# Por Sabrina Andrade | 12.10.2016 | sdw@hotmail.com.br | github.com/sabrinandra
+# Por Sabrina Andrade | 12.10.2016 | sdw@hotmail.com.br | github.com/sabrinandra/gerador-de-index/
 #
 # Python 3.5.0
 
